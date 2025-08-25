@@ -1,1 +1,1 @@
-AT
+<img src="soviet.jpg"/>
